@@ -13,5 +13,3 @@ Dalamud custom plugin repository for WonderlandDev plugins.
 
 3. Save the settings and open the plugin installer with `/xlplugins`.
 4. Install any listed Wonderland plugins you want.
-
-This repo is a **catalog only** — plugin source and release zips live in each plugin’s own GitHub repository. Individual plugins may also publish their own custom-repo URLs; prefer this Wonderland URL for new installs.
