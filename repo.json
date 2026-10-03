@@ -23,5 +23,25 @@
       "key",
       "timer"
     ]
+  },
+  {
+    "Author": "Anna (patched by WonderlandDev)",
+    "Name": "ExtraChat (Reborn)",
+    "Description": "ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells to the game. This is a patched build that fixes the 'Not on main thread' crashes on current Dalamud (registration and channel list).",
+    "InternalName": "ExtraChat",
+    "AssemblyVersion": "1.3.11.0",
+    "RepoUrl": "https://github.com/alicewonderland-dev/ExtraChat-Reborn",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "Cross-data-centre linkshells with unlimited members.",
+    "IsHide": false,
+    "DownloadLinkInstall": "https://github.com/alicewonderland-dev/ExtraChat-Reborn/releases/download/v1.3.11.0/ExtraChat.zip",
+    "DownloadLinkUpdate": "https://github.com/alicewonderland-dev/ExtraChat-Reborn/releases/download/v1.3.11.0/ExtraChat.zip",
+    "LastUpdate": 1791057522,
+    "Tags": [
+      "chat",
+      "linkshell",
+      "extrachat"
+    ]
   }
 ]
