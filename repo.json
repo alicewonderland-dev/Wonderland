@@ -4,7 +4,7 @@
     "Name": "Wind-Up Key",
     "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
     "InternalName": "WindUpKey",
-    "AssemblyVersion": "0.2.5.0",
+    "AssemblyVersion": "0.2.4.0",
     "TestingAssemblyVersion": "0.2.4.3",
     "TestingDalamudApiLevel": 15,
     "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
